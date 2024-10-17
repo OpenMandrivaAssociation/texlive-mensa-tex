@@ -3,7 +3,7 @@ Version:	45997
 Release:	2
 Summary:	Typeset simple school cafeteria menus
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mensa-tex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mensa-tex
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mensa-tex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mensa-tex.doc.r%{version}.tar.xz
